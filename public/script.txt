@@ -1,0 +1,7 @@
+<p>
+  View Oldway, click <a href="oldway.html">here</a>
+</p>
+
+<p>
+  View new way, click <a href="index.html">here</a>
+</p>
